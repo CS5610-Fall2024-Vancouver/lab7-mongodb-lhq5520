@@ -1,7 +1,7 @@
 const { MongoClient } = require('mongodb');
 
 async function main() {
-  const uri = "mongodb+srv://hazrabano:root@cluster0.ejxrv.mongodb.net/";   // update your own connection string here
+  const uri = "mongodb+srv://989994:Ab18955176911@cluster0.q4jov.mongodb.net/";   // update your own connection string here
 
   const client = new MongoClient(uri);
 
